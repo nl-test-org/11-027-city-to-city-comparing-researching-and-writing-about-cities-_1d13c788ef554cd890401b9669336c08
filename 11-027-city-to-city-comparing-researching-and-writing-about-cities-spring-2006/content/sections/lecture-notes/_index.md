@@ -1,0 +1,30 @@
+---
+course_id: 11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006
+layout: course_section
+menu:
+  leftnav:
+    identifier: 5530374852d39a5b9b295090782fab2b
+    name: Lecture Notes
+    weight: 40
+title: Lecture Notes
+type: course
+uid: 5530374852d39a5b9b295090782fab2b
+
+---
+
+| WEEK # | TOPICS | LECTURE NOTES |
+| --- | --- | --- |
+| 1 | Introduction to City to City | First, Students will be introduced to the idea of comparing cities. What does it mean to compare? What assumptions do we bring to the study that we need to be aware of?  {{< br >}}  {{< br >}}Next, students will be introduced to Copenhagen and its many planning challenges and opportunities. Students will be asked to think about factors such as the history, the layout of the city and its neighborhoods, the government structure and current planning issues/concerns.  {{< br >}}  {{< br >}}1st hour: Comparing cities - Prof. Cherie Abbanat.  {{< br >}}  {{< br >}}2nd hour: Thinking about Copenhagen.  {{< br >}}  {{< br >}}Planning Logistics: Air Reservations/Accommodations/Budget Discussion/Pick a presentation time. |
+| 2 | What about Copenhagen? | 1st hour: Presentations of potential topics by students. (These will be filmed.)  {{< br >}}  {{< br >}}2nd hour: Expert on the City. Guest Speaker from the Royal Danish Consulate will speak about Denmark's history and contemporary planning issues. Be prepared to take notes in your research notebook.  {{< br >}}  {{< br >}}Class Notes ([PDF]({{< baseurl >}}/sections/lecture-notes/lect2)) |
+| 3 | What about Boston? | Today we will look at Boston through the eyes of a researcher. Matthew Brownell, architect and planner, will give us an overview of Boston's Bullfinch triangle as it has changed through Boston's history. Here you will learn how by studying an area or an issue, you can learn much about a city's history.  {{< br >}}  {{< br >}}1st hour: Methodologies. How will you study your issue? We will discuss different the types of methods that can be used to study an issue.  {{< br >}}  {{< br >}}2:30 - 3:00: A bit of Boston History from a design perspective - Matthew Brownell.  {{< br >}}  {{< br >}}Class Notes ([PDF]({{< baseurl >}}/sections/lecture-notes/lect3)) |
+| 4 | Workshop/Discussion - Interviews | 1st ½ hour: Proposals reviewed: Speed editing.  {{< br >}}2nd ½ hour: Interview techniques: Now that students have done some preliminary research, it is time to interview 1 or 2 of the people you have identified as experts on their issues. We will discuss interviewing techniques and prepare preliminary questions for our interviewees.  {{< br >}}  {{< br >}}2nd hour: There is so much more than GoogleTM! Now that you have had a chance to do some research on your own, the MIT librarians will speak to you about how to get even more out of the library on your topic.  {{< br >}}  {{< br >}}Class Notes ([PDF]({{< baseurl >}}/sections/lecture-notes/lect4)) |
+| 5 | Guest Presentation by Prof. Ole Madsen, MIT Professor of Civil and Environmental Engineering | 1st hour: Interview debriefing. What did you learn?  {{< br >}}  {{< br >}}2nd hour: Growing up Danish - Visit with Prof. Ole Madsen.  {{< br >}}  {{< br >}}Class Notes ([PDF]({{< baseurl >}}/sections/lecture-notes/lect5)) |
+| 6 | Guest Presentation by Thomas Oles - "A Tourist in Denmark"  {{< br >}} | 1st hour: Workshop 2-pagers. Students will switch documents and go to work editing with their peers.  {{< br >}}  {{< br >}}2nd hour: Thomas Oles, Planner/Architect. A foreigner in Copenhagen. What to expect, what to see, how to approach this new city.  {{< br >}}  {{< br >}}Class Notes ([PDF]({{< baseurl >}}/sections/lecture-notes/lect6)) |
+| &nbsp; | Class Trip: Ten day trip to Copenhagen, Denmark | Research Necessities to bring:  {{< br >}}\- Your research notebook (pens/pencils)  {{< br >}}\- Sketch pad, if necessary  {{< br >}}\- Your digital camera  {{< br >}}\- Your digital camcorder, if necessary  {{< br >}}\- Your digital voice recorder, if necessary  {{< br >}}  {{< br >}}1\. Scavenger Hunt: The trip will begin with a scavenger hunt where you will search for clues, places of interest and pieces of information that are somewhat related to your topics of interest. The purpose of the scavenger hunt is three-fold:  {{< br >}}\- To orient you to your new environment, means of transportation and feel of the city, and  {{< br >}}\- To allow you to get comfortable working with your group on your fact-finding missions, and  {{< br >}}\- To have fun.  {{< br >}}  {{< br >}}2\. Meetings: The trip will include meetings with planners, particularly DUSP alumni/ae in that City so that you can ask questions and get answers about where and how best to focus your limited time within the City. You must prepare ahead of time a list of questions for the planner(s). |
+| 7 | Trip De-briefing | 1st hour: Debriefing on Copenhagen.  {{< br >}}  {{< br >}}2nd hour: Sharing. Photo essay presentations.  {{< br >}}  {{< br >}}Class Notes ([PDF]({{< baseurl >}}/sections/lecture-notes/lect7)) |
+| 8 | Research Paper Editing Workshop | 1st hour: What are the pieces of a research paper?  {{< br >}}  {{< br >}}2nd hour: Workshop. Expanding the paper and re-visioning.  {{< br >}}  {{< br >}}Class Notes ([PDF]({{< baseurl >}}/sections/lecture-notes/lect8)) |
+| 9 | Field Trip 1 - Green Line Extension into Somerville, MA and Medford, MA | Class Notes ([PDF]({{< baseurl >}}/sections/lecture-notes/lect9)) |
+| 10 | Field Trip 2 - Visiting Boston's Suburbs (Concord, MA) | Class Notes ([PDF]({{< baseurl >}}/sections/lecture-notes/lect10)) |
+| 11 | Field Trip 3 - Boston Waterfront Tour | &nbsp; |
+| 12 | Final Presentations: DUSP Forum | Faculty and DUSP and alumni/ae students will be invited to attend the student presentations. (These will be filmed.) |
+| 13 | Wrap Up |
